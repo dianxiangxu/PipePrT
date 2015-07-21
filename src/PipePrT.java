@@ -11,7 +11,6 @@ import javax.swing.UIManager;
 import pipeprt.gui.CreateGui;
 import pipeprt.gui.PrTPanel;
 
-//GIT test
 public class PipePrT extends JFrame {
 
 //	public static File file = new File("Example nets\\blocks.xml");
